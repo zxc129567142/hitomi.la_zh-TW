@@ -3880,8 +3880,8 @@
         "piercing ♀": "穿環 ♀",
         "piercing ♂": "穿環 ♂",
         "virginity ♂": "失去童貞 ♂",
-        "unusual pupils ♀": "不尋常的學生 ♀",
-        "unusual pupils ♂": "不尋常的學生 ♂",
+        "unusual pupils ♀": "愛心眼 ♀",
+        "unusual pupils ♂": "愛心眼 ♂",
         "chinese dress ♀": "中國服飾 ♀",
         "chinese dress ♂": "中國服飾 ♂",
         "prostate massage ♂": "前列腺按摩 ♂",
@@ -4499,6 +4499,9 @@
         "pixie cut ♀": "精靈頭 ♀",
         "pixie cut ♂": "精靈頭 ♂",
         "large tattoo ♀": "大片紋身 ♀",
-        "large tattoo ♂": "大片紋身 ♂"
+        "large tattoo ♂": "大片紋身 ♂",
+        "petplay ♀": "寵物扮演 ♀",
+        "petplay ♂": "寵物扮演 ♂",
+        "forced exposure ♀": "强迫暴露 ♀"
     }
 }
