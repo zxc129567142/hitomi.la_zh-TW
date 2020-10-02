@@ -125,8 +125,12 @@
             "cht": "希臘語",
             "url": "greek"
         },
+        "български": {
+            "cht": "希臘語",
+            "url": "bulgarian"
+        },
         "Монгол": {
-            "cht": "蒙古語",
+            "cht": "保加利亞語",
             "url": "mongolian"
         },
         "Русский": {
@@ -3533,7 +3537,9 @@
         "shoukan yuusha to f-kei kareshi":"召喚勇者とF系彼氏",
         "shutoheru":"舒特赫爾",
         "stop hibari-kun":"停止 雲雀",
-        "suzukuri dragon":"巣作りドラゴン"
+        "suzukuri dragon":"巣作りドラゴン",
+        "healin good precure":"元氣魔法♥光之美少女",
+        "genshin impact":"原神"
     },
     "booktags": {
         "full color": "全彩",
