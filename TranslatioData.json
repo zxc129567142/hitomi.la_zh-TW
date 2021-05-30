@@ -65,7 +65,7 @@
             "cht": "義大利語",
             "url": "italian"
         },
-        "Javanese": {
+        "javanese": {
             "cht": "爪哇語",
             "url": "javanese"
         },
@@ -135,7 +135,7 @@
         },
         "български": {
             "cht": "保加利亞語",
-            "url": "български"
+            "url": "bulgarian"
         },
         "Монгол": {
             "cht": "蒙古語",
